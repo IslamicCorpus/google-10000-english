@@ -1327,8 +1327,6 @@ guam
 cite
 nam
 ix
-gdp
-pig
 mess
 lit
 una
@@ -1559,9 +1557,6 @@ reid
 wt
 flex
 rosa
-hash
-lazy
-mv
 mpg
 carb
 cas
@@ -1700,7 +1695,6 @@ urge
 smtp
 kurt
 neon
-ours
 lone
 cope
 lm
