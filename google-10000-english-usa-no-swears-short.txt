@@ -580,15 +580,6 @@ moon
 fly
 fear
 rs
-wars
-kept
-hey
-beat
-bbc
-arms
-tea
-avg
-sky
 utah
 rom
 hide
@@ -597,7 +588,6 @@ slow
 src
 hip
 faqs
-nine
 eric
 spot
 grow
@@ -611,9 +601,6 @@ zum
 dna
 diff
 bass
-hole
-pets
-ride
 tim
 sql
 pair
@@ -689,7 +676,6 @@ pure
 lens
 draw
 fm
-warm
 babe
 crew
 legs
@@ -733,9 +719,6 @@ milk
 nw
 boot
 ff
-push
-iso
-sum
 misc
 alan
 dear
