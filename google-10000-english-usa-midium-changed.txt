@@ -15,3 +15,51 @@ contact
   ・I will not contact him at unless he wants me to. : 私は彼が望まない限り、彼に連絡しない。
   自動
   接触する
+
+comment
+  名
+  論評、コメント、意見、批評、所感
+  ・Are there any other comments? : 他に意見はございませんか。
+  ・I don't have any comments. : あなたと同意見です。
+  ・I have to object to your comment. : あなたの意見には賛成できません。
+  解説、注釈
+  《言語》評言◆文中で新しい情報を伝える部分のこと。◆【同】rheme
+  《コ》コメント◆コンパイル時などには無視されるプログラムの注釈。
+  自動
+  コメントする、批評する、論評する
+  ・The prime minister refused to comment on individual cases. : 首相は個々のケースについてコメントするのを拒んだ。
+  他動
+  ～についてコメント［批評・論評］する
+  〔本に〕注釈［解説］を付ける
+
+terms
+    ・The contract term will be extended upon completion of the renewal procedures. : 更新手続き完了後、契約期間が延長されます。
+  〔仕えている〕任期、刑期、勤務期間
+  ・The chairman has been re-elected to his 5th consecutive term of office. : 議長は5期連続で選ばれた。
+  〔学校の〕学期、〔裁判所の〕開廷期、〔議会の〕会期
+  ・The new school term in the U.S. starts in September. : アメリカでは新学期は9月に始まります。
+  〈古〉終わり、終末
+  〔正常な出産の〕予定日
+  〔借金返済などの〕期限、期日
+  〔ある特別な意味を持つ〕用語、言葉
+  ・"Three out of every five soldiers are suffering from PTST." "I think the term you are referring to is PTSD." : 「5人中3人の割合で、兵士たちはPTSTで苦しんでいます」「おっしゃっているのはPTSDのことですよね」
+  ・This is a common public relations term. : これはよくあるPR関係の用語です。
+  《terms》〔ある人の〕言葉遣い、言い回し、表現
+  《terms》〔契約で同意された〕条項、条件
+  ・Could you change the payment terms as follows? : 以下のように支払条件を変更していただけますか？
+  ・Under those terms, we can accept it. : その条件ならお受けできます。
+  《terms》〔人と人との〕仲、間柄、関係
+  ・Bob and Peter are on good terms. : ボブとピーターは仲が良い。
+  《数学》〔数式や数列の〕項
+  《論理学》名辞
+  境界石［柱・標識］◆【同】terminus
+  他動
+  ～を称する［呼ぶ・名づける・命名する］、～という名前を付ける［授ける・与える・付与する］
+forum
+  名
+  《the Forum》〔古代ローマの〕フォロ・ロマーノ◆【同】the Roman Forum
+  〔古代ローマの都市の〕フォーラム、公共広場◆公開討論会や市場が開かれた場所。
+  〔雑誌やテレビなどの〕公開討論誌［番組］
+  〔専門家による〕公開討論会、フォーラム
+  裁判所、法廷
+  《イ》〔参加者が意見を書き込む〕フォーラム
