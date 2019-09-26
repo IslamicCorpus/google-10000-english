@@ -1,10 +1,6 @@
 section
-related
-security
 current
 board
-location
-profile
 previous
 property
 listing
